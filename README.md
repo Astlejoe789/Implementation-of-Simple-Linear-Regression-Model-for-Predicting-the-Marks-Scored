@@ -86,7 +86,7 @@ print("RMSE = ",rmse)
 ![image](https://github.com/user-attachments/assets/5b263a24-f11d-4322-9e22-dc63e8187821)
 ## Array value of X:
 ![image](https://github.com/user-attachments/assets/6903282f-5b5b-49d2-a163-c1f7f5f0f03d)
-##Array value of Y:
+## Array value of Y:
 ![image](https://github.com/user-attachments/assets/79999b6e-a053-404f-ae57-bfeb0d3e200c)
 ## Values of Y prediction:
 ![image](https://github.com/user-attachments/assets/1b25e5b3-183f-43cf-b4f8-f85fde26231c)
